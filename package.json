@@ -1,0 +1,27 @@
+{
+  "name": "projeto-nodejs-taveira",
+  "version": "1.0.0",
+  "description": "Projeto Knex",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JorjScott/Projeto-NodeJS-Taveira.git"
+  },
+  "keywords": [
+    "knex"
+  ],
+  "author": "Jorge Luiz",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/JorjScott/Projeto-NodeJS-Taveira/issues"
+  },
+  "homepage": "https://github.com/JorjScott/Projeto-NodeJS-Taveira#readme",
+  "dependencies": {
+    "better-sqlite3": "^7.5.1",
+    "knex": "^1.0.7",
+    "pg": "^8.7.3"
+  }
+}
